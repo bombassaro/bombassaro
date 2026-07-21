@@ -4,6 +4,6 @@ For 15+ years I've been building platforms that domain specialists depend on: ne
 
 The pattern across all of it: I learn hard domains fast, then build the platform that lets the experts do their work.
 
-Most of my recent work lives in private and client repositories ([@mentha-ai](https://github.com/mentha-ai), [@xproglabs](https://github.com/xproglabs), Atex Polopoly ecosystem). Happy to walk through architecture and decisions in a conversation.
+Most of my recent work lives in private and client repositories ([@xproglabs](https://github.com/xproglabs), Atex Polopoly ecosystem). Happy to walk through architecture and decisions in a conversation.
 
 📍 Brazil · 💼 [LinkedIn](https://www.linkedin.com/in/bombassaro/)
